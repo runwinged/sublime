@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/User/Railscasts.tmTheme",
+	"font_size": 14,
+
+	"ignored_packages":
+	[
+		"Tag",
+		"PhpTidy",
+		"Vintage",
+		"YUI Compressor",
+		"Theme - Soda",
+		"SFTP",
+		"Alternative Autocompletion",
+		"RubyFormat",
+		"Wordpress",
+		"Jimbly's Clipboard History",
+		"SideBarEnhancements",
+		"RubyTest",
+		"Clipboard History"
+	]
+}

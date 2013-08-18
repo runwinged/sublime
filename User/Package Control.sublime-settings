@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Alternative Autocompletion",
+		"Clipboard History",
+		"Jimbly's Clipboard History",
+		"Package Control",
+		"PhpTidy",
+		"Prefixr",
+		"RubyFormat",
+		"RubyTest",
+		"SFTP",
+		"SideBarEnhancements",
+		"Tag",
+		"Theme - Soda",
+		"Wordpress",
+		"YUI Compressor"
+	]
+}
